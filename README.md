@@ -9,5 +9,4 @@
 		color:white;
 		text-decoration:none;
 		border-radius:5px
-		"
->Перейти к Pixel-Flash</a>
+">Перейти к Pixel-Flash</a>
