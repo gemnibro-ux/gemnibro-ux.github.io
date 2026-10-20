@@ -1,4 +1,39 @@
 header {
-    padding: 10px;
+    top: 0;
+    background-color: white;
+    padding: 30px;
     border-bottom: solid 1px #ccc;
+    box-shadow: 1px 1px 3px rgb(203, 200, 200);
+}
+
+.navigation-style {
+    padding: 10px 20px;
+    border: none;
+    background: none; 
+ 
+    cursor: pointer; 
+    font-family: Satoshi, Geist, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    transition: transform 0.2s ease; 
+}
+
+.center_elements {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home {
+    position: absolute;
+    left: 10px;
+}
+
+.home:hover {
+    filter: brightness(0) saturate(98%) invert(14%) sepia(95%) saturate(7300%) 
+}
+
+.navigation-style:hover {
+    background-color: rgba(245, 245, 245, 253);
+    border-radius: 25px;
+    transform: scale(1.05) translateY(-4px);
 }

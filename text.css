@@ -1,0 +1,38 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-family: 'Segoe UI', 'San Francisco', Helvetica, Arial, sans-serif;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+p {
+    color: #666;
+    font-family: 'Segoe UI', 'San Francisco', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+label {
+    color: #999;
+    font-family: 'Segoe UI', 'San Francisco', Helvetica, Arial, sans-serif;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+
+/* code styles */
+
+.code {
+    background-color: #ffddbd;
+    font-family: 'Fira Code', Consolas, 'Courier New', monospace;
+    padding: 3px;
+    border-radius: 8px;
+}
+
+.script {
+    background-color: #ffddbd;
+    border-radius: 10px;
+    color:#333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    padding: 10px;
+    width: 480px;
+    top: 980px;
+}

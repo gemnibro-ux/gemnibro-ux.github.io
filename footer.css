@@ -1,0 +1,19 @@
+footer {
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+.footer-navigation-container {
+    font-family: 'Segoe Ui', Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+.footer-navigation-text {
+    text-decoration: none;
+    color: #667;
+}
+
+.footer-navigation-logo {
+    text-align: center;
+}
